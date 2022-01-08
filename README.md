@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @a7freire
 - 👀 I’m interested in everything related to economics and data science
-- 🌱 I’m currently learning R and Econometrics
-- 💞️ I’m looking to collaborate on 
+- 🌱 I’m currently learning R and econometrics
 - 📫 How to reach me alberto7freire@yahoo.com
 
 <!---
